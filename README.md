@@ -163,7 +163,7 @@ In our team, we did our best to split the work equally for the second deliverabl
 * Keira did the invert filter, the ToolBar, Saturation adjustment, and wrote this README.
 * Raaid did mouse selection, crop selection, emboss, exception handelling, bugs, fixed javadocs and CD/CI pipeline.
 * Dyrel did Draw, Keyboard Shorts, Colour and Line Thickness Choice and reformated this README. I also dabbled in some excepting handling.
-* Janadhi did Macro, Emboss filter comments with help from Raaid, also carried out the CI/CD pipeline and error handeling with the pipeline. 
+* Janadhi(@janadhi14) did Macro, Emboss filter comments with help from Raaid, also carried out the CI/CD pipeline and error handeling with the pipeline. 
 * Bernice Extended the filters, dealt with filters with negative results,the Sobel filters and added 2 extra features.One being the frame to automatically be the same size as the image even when you resize. The second being giving the choice to the user to increase the brightness of the image at the same time as applying a filter. 
 
 ## PROJECT MANAGEMENT
