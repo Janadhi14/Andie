@@ -5,6 +5,10 @@ every edit is reversible, in order to maintain the integrity of the image
 ANDIE offers a variety of colour, file, image, and filter actions as well as
 language support for several languages.
 
+<img width="703" alt="Screenshot 2023-11-27 at 2 53 18 PM" src="https://github.com/Janadhi14/Andie/assets/100277240/3297dabd-b6ef-4ef6-8f49-3da0b0344114">
+<img width="699" alt="Screenshot 2023-11-27 at 2 56 49 PM" src="https://github.com/Janadhi14/Andie/assets/100277240/172898f5-fca8-4b5b-9269-d737bcdaf4c2">
+
+
 ## USER GUIDE
 
 Open ANDIE using the given andie.jar file. Then open any image with ANDIE and explore using the drop-down menus that offer various
